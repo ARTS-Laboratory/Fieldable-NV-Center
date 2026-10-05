@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(general
-		(thickness 1.666)
+		(thickness 1.648)
 		(legacy_teardrops no)
 	)
 	(paper "A4")
@@ -43,7 +43,7 @@
 			)
 			(layer "F.Mask"
 				(type "Top Solder Mask")
-				(thickness 0.03)
+				(thickness 0.012)
 			)
 			(layer "F.Cu"
 				(type "copper")
@@ -54,7 +54,7 @@
 				(thickness 1.6)
 				(material "FR4")
 				(epsilon_r 4.3)
-				(loss_tangent 0.02)
+				(loss_tangent 0.03)
 			)
 			(layer "B.Cu"
 				(type "copper")
