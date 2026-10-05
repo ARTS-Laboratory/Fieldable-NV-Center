@@ -1,0 +1,206 @@
+%PDF-1.5
+%€‚ƒ
+5 0 obj
+<< /Length 6 0 R /Filter /FlateDecode >>
+stream
+xÚ}SKNÄ0İÏ)r‚ÈIl'9K8BHˆn`ÁõñLb»-Õ¨ªZ??=ÿ!ÔàşøïØB
+¯ò~NOøşX?o/¡Å‚Œ~oÿ|Hê‘	™˜År§ÃiH‚×š"‡	R,*4ŞÙC„#ƒ©Fr³gŒ±CršŒ©[§.¸ÆP{XÆ°,—Â©~.ÊF¬€ÂÂT0=ªu„‰AìSOYjAÊ•vö„ú‘Ñ%#S0{Æ;òd,¨õñÕË…2,Ë¥pªãºÚR;åXïÑD¢èQº•ÂvãÜ{)“Ìèèû:ú$5N±µ^ÅwĞ|æ;i¾_ä§3ói82{©S×^ë^ø4tsœ17ËÌÖN92{i
+«×Ã¦aY(Ã²\
+§:ï_š#óNtêzGº~iº9Î˜›e
+fë82ïDô4†_šfaËr)œê¸WûÓ`êÂ
+endstream
+endobj
+6 0 obj
+355
+endobj
+8 0 obj
+[7 0 R]
+endobj
+9 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+    /ProcSet [/PDF /Text /ImageC /ImageB]
+    /Font 2 0 R
+    /XObject 3 0 R >>
+/MediaBox [0 0 841.896 595.296]
+/Contents 5 0 R
+/Annots 8 0 R>>
+endobj
+10 0 obj
+<</S /GoTo /D [9 0 R /Fit]
+>>
+endobj
+13 0 obj
+<</S /GoTo /D [9 0 R /FitR 361 292 475 261]
+>>
+endobj
+15 0 obj
+<< /BaseFont /Helvetica
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+16 0 obj
+<< /BaseFont /Helvetica-Oblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+17 0 obj
+<< /BaseFont /Helvetica-Bold
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+18 0 obj
+<< /BaseFont /Helvetica-BoldOblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+    /KicadFont 15 0 R
+    /KicadFontI 16 0 R
+    /KicadFontB 17 0 R
+    /KicadFontBI 18 0 R
+>>
+endobj
+3 0 obj
+<<
+>>
+endobj
+7 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [390.269 269.449 446.915 284.827]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = G***"],
+["Value = LOGO"],
+["Footprint = LOGO"],
+]\);) >>
+>>
+endobj
+4 0 obj
+<< /JavaScript
+ << /Names
+    [ (JSInit) << /Type /Action /S /JavaScript /JS (
+function ShM\(aEntries\) {
+    var aParams = [];
+    for \(var i in aEntries\) {
+        aParams.push\({
+            cName: aEntries[i][0],
+            cReturn: aEntries[i][1]
+        }\)
+    }
+
+    var cChoice = app.popUpMenuEx.apply\(app, aParams\);
+    if \(cChoice != null && cChoice.substring\(0, 1\) == '#'\) this.pageNum = parseInt\(cChoice.slice\(1\)\);
+    else if \(cChoice != null && cChoice.substring\(0, 4\) == 'http'\) app.launchURL\(cChoice\);
+    else if \(cChoice != null && cChoice.substring\(0, 4\) == 'file'\) app.openDoc\(cChoice.substring\(7\)\);
+}
+) >> ]
+ >>
+>>
+endobj
+1 0 obj
+<<
+/Type /Pages
+/Kids [
+9 0 R
+]
+/Count 1
+>>
+endobj
+19 0 obj
+<<
+/Producer (KiCad PDF)
+/CreationDate (D:20261005130354)
+/Creator (PCBNEW)
+/Title (broadband_antenna-Edge_Cuts.pdf)
+/Author ()
+/Subject ()
+>>
+endobj
+14 0 obj
+<<
+/Title (G***)
+/Parent 12 0 R
+/A 13 0 R
+>>
+endobj
+12 0 obj
+<<
+/Title (Footprints)
+/Parent 11 0 R
+/Count -1
+/First 14 0 R
+/Last 14 0 R
+/A 10 0 R
+>>
+endobj
+11 0 obj
+<<
+/Title (Edge.Cuts \(Page 3\))
+/Parent 20 0 R
+/Count -1
+/First 12 0 R
+/Last 12 0 R
+/A 10 0 R
+>>
+endobj
+20 0 obj
+<< /Type /Outlines
+   /Count 3
+   /First 11 0 R
+   /Last 11 0 R
+>>
+endobj
+21 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/Version /1.5
+/PageMode /UseOutlines
+/Outlines 20 0 R
+/Names 4 0 R
+/PageLayout /SinglePage
+>>
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000002299 00000 n 
+0000001250 00000 n 
+0000001363 00000 n 
+0000001620 00000 n 
+0000000015 00000 n 
+0000000444 00000 n 
+0000001384 00000 n 
+0000000463 00000 n 
+0000000486 00000 n 
+0000000688 00000 n 
+0000002682 00000 n 
+0000002578 00000 n 
+0000000734 00000 n 
+0000002517 00000 n 
+0000000797 00000 n 
+0000000904 00000 n 
+0000001019 00000 n 
+0000001131 00000 n 
+0000002358 00000 n 
+0000002796 00000 n 
+0000002879 00000 n 
+trailer
+<< /Size 22 /Root 21 0 R /Info 19 0 R >>
+startxref
+3020
+%%EOF
