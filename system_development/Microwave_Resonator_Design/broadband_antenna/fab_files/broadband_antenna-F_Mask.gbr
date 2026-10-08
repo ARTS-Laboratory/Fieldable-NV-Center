@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,9.0.5*%
-%TF.CreationDate,2026-10-06T13:24:37-04:00*%
+%TF.CreationDate,2026-10-08T10:23:40-04:00*%
 %TF.ProjectId,broadband_antenna,62726f61-6462-4616-9e64-5f616e74656e,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 9.0.5) date 2026-10-06 13:24:37*
+G04 Created by KiCad (PCBNEW 9.0.5) date 2026-10-08 10:23:40*
 %MOMM*%
 %LPD*%
 G01*
@@ -22,16 +22,16 @@ X96900000Y-121870000D01*
 X96900000Y-118570000D01*
 G37*
 D10*
+%TO.C,MH3*%
+X115000000Y-135000000D03*
+%TD*%
 %TO.C,MH1*%
 X115000000Y-105000000D03*
-%TD*%
-%TO.C,MH2*%
-X145000000Y-105000000D03*
 %TD*%
 %TO.C,MH4*%
 X145000000Y-135000000D03*
 %TD*%
-%TO.C,MH3*%
-X115000000Y-135000000D03*
+%TO.C,MH2*%
+X145000000Y-105000000D03*
 %TD*%
 M02*
