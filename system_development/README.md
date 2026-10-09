@@ -1,7 +1,7 @@
 # System Development
 
-## V0.1 
+## v0.1.0 
 1. The initial setup in Mas's lab
 
-## V0.2
-1. The new setup devolped from Thor lab components
+## v0.2.0
+1. The new setup developed from Thor lab components
