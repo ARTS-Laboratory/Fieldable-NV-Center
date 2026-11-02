@@ -269,7 +269,7 @@
       "plot": "fab_files/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "broadband_antenna.step",
       "svg": "",
       "vrml": ""
     },
