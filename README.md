@@ -3,7 +3,7 @@ Fieldable-NV-Center-Instrument
 
 <p align="center">
 <img src="media/Nov_2026.png" alt="drawing" width="800"/> <br> 
-The beanch top demonstrater unit in the Fall of 2026. 
+The benchtop demonstrator unit in the Fall of 2026. 
 </p>
 <p align="center">
 </p>
@@ -16,18 +16,18 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 
 #### Bibtex
 
-@Misc{ARTSLabSituMonitoringPowder,  
+@Misc{ARTSLabFieldableNvCenter,  
   author = {{ARTS-L}ab},  
   howpublished = {GitHub},   
-  title  = {{LPBF}-Observer},  
+  title  = {Fieldable-{NV}-Center},  
   groups = {{ARTS-L}ab},  
   note = {Accessed: 20xx-xx-xx},  
-  url    = {https://github.com/ARTS-Laboratory/LPBF-Observer},  
+  url    = {https://github.com/ARTS-Laboratory/Fieldable-NV-Center},  
 }  
 
 <p align="center">
-<img src="media/QR.png" alt="drawing" width="200"/>
+<img src="media/QR-for-ARTS-Laboratory.png" alt="drawing" width="200"/>
 </p>
 <p align="center">
-QR code for repo.
+QR code for the repository.
 </p>
