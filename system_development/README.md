@@ -18,7 +18,7 @@ media/Russell_2026_Fall.png
 * Named after Edwin R. Russell, a Columbia-born nuclear chemist who contributed to the Manhattan Project
 
 <p align="center">
-  <img src="media/Russell_2026_Fall.png" width="50%">
+  <img src="media/Townes_2026_Fall.png" width="50%">
   <br>
   <em>Townes NV-center ESR/NMR setup.</em>
 </p>
