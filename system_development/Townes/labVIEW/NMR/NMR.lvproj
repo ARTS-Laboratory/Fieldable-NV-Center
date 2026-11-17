@@ -46,6 +46,7 @@
 		<Item Name="Synth_Step_Size.vi" Type="VI" URL="../Synth_Step_Size.vi"/>
 		<Item Name="Synthf2700.vi" Type="VI" URL="../Synthf2700.vi"/>
 		<Item Name="T-Set_Change.vi" Type="VI" URL="../T-Set_Change.vi"/>
+		<Item Name="T-Set_Study.vi" Type="VI" URL="../../../../../../../../Desktop/Angelo/NMR/NMR/T-Set_Study.vi"/>
 		<Item Name="Test_Bench_2.vi" Type="VI" URL="../Test_Bench_2.vi"/>
 		<Item Name="Test_Bench_Pi.vi" Type="VI" URL="../Test_Bench_Pi.vi"/>
 		<Item Name="Windfreak_frequency_shift.vi" Type="VI" URL="../Windfreak_frequency_shift.vi"/>
