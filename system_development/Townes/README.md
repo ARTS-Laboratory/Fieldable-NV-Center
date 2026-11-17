@@ -1,3 +1,3 @@
-# Russell
-* NV-center ODMR setup designed for vector magnetometry and magnetic-field reconstruction.
-* Named after Charles H. Townes, a South Carolina-born Nobel Prize-winning physicist and pioneer of laser technology
+# Townes
+* Benchtop NV-center ODMR setup designed for ESR/NMR experiments and pulsed measurements.
+* Named after Edwin R. Russell, a Columbia-born nuclear chemist who contributed to the Manhattan Project
