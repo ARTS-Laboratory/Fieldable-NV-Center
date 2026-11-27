@@ -54,7 +54,7 @@ The LabVIEW programs number channels from 1, so there I = channel 4 and Q = chan
 - [14:44](https://www.youtube.com/watch?v=5kdYVRmKDM4&t=884s) Step 2: second half, −Y pulses, and inhibits
 
 ## E: Wiring, Debugging, and Running a New Sequence; T1 and Ramsey
-3
+
 - [0:00](https://www.youtube.com/watch?v=tKU9IeiQwhY&t=0s) Step 3: wiring the new sequence into the main VI
 - [7:09](https://www.youtube.com/watch?v=tKU9IeiQwhY&t=429s) Step 4: debugging it on the oscilloscope
 - [18:40](https://www.youtube.com/watch?v=tKU9IeiQwhY&t=1120s) Starting a long scan: file paths, passes, and sanity checks
