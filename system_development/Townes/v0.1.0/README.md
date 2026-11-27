@@ -2,6 +2,11 @@
 * Working ESR/NMR setup in November 2026.
 * Functional Setup with operatations instructions. 
 
+## Documentation
+
+The accompanying PDF was prepared by Angelo Varillas to document his NMR work over the past four to five months. It was created using the video transcript, selected video snapshots, photographs of relevant notebook pages, and additional notes. The lab notebook is also being kept in the lab as a reference.
+
+
 ## Townes: Operation Instruction Videos
 
 Townes is a benchtop NV-center ODMR setup for ESR/NMR and pulsed measurements. These five
